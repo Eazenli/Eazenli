@@ -1,6 +1,6 @@
 ## 😀 Hi there!
 I'm a passionate Data Analyst who recently transitioned from architecture to the exciting world of Data! 🚀 
-<p>Yes! I'm more interested in the structure of a database rather than the structure of a building. </p>
+<p>Yes! I'm now more interested in the structure of a database than the structure of a building. </p>
 My journey into the data world started with a love for problem-solving and analytical thinking and a desire to build innovative solutions.
 
 ## 🌟 About me 
