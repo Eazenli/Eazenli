@@ -19,9 +19,6 @@ My journey into the data world started with a love for problem-solving and analy
 * Graphical conception: Adobe Creative Suites
 * Agile management: Miro, Monday
 
-## 😼 Fun fact
-My cat can do a backflip.
-
 
 ### I'm still new in Github, feel free to check out my repositories and connect with me. 🌍✨
 ![94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48](https://github.com/user-attachments/assets/0bca592d-9374-4cdb-9994-46c4b6e3c045)
